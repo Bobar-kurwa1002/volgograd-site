@@ -26,6 +26,8 @@ nav a {
     margin: 0 10px;
     text-decoration: none;
     font-weight: bold;
+    padding: 5px 0;
+    transition: color 0.3s ease;
 }
 
 main {
